@@ -24,13 +24,10 @@ Projects
 * CamAdapter Jetson `</camadapter-jetson/>`__:
 
   - **[3D]** CamAdapter Jetson Box: `</camadapter-jetson/3d/box.stl>`__
-
   - **[2D]**
-
-    + CamAdapter Jetson Top: `</camadapter-jetson/2d/top.dxf>`__
-    + CamAdapter Jetson Bottom: `</camadapter-jetson/2d/bottom.dxf>`__
-    + CamAdapter Jetson Ear: `</camadapter-jetson/2d/ear.dxf>`__
-
+     + CamAdapter Jetson Top: `</camadapter-jetson/2d/top.dxf>`__
+     + CamAdapter Jetson Bottom: `</camadapter-jetson/2d/bottom.dxf>`__
+     + CamAdapter Jetson Ear: `</camadapter-jetson/2d/ear.dxf>`__
   - **[PCB]**
      + CamAdapter Jetson Top: `</camadapter-jetson/pcb/top/>`__
      + CamAdapter Jetson Bottom: `</camadapter-jetson/pcb/bottom/>`__
