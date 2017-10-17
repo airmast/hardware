@@ -23,7 +23,7 @@ Projects
 
 * CamAdapter Jetson `</camadapter-jetson/>`__:
 
-  - **[3D]**:
+  - **[3D]**
      + CamAdapter Jetson Box: `</camadapter-jetson/3d/box.stl>`__
      + CamAdapter Jetson Ear Spacer: `</camadapter-jetson/3d/ear-spacer.stl>`__
      + CamAdapter Jetson EMUC Spacer: `</camadapter-jetson/3d/emuc-spacer.stl>`__
