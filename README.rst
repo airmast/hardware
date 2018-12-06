@@ -13,15 +13,17 @@ STEP models which are intended to be printed on 3D printer.
 
 DXF drafts of flat parts (1:1 scale).
 
-PCB
----
-
-KiCad projects and Gerber files of flat parts which may be manufactured as printed circuit boards.
-
 Projects
 ========
 
-* CamAdapter Jetson `</camadapter-jetson/>`__:
+* CamAdapter Apalis `</camadapter-apalis/>`__:
+
+  - **[3D]**
+     + CamAdapter Apalis Box: `</camadapter-apalis/3d/box.stl>`__
+     + CamAdapter Apalis Cover: `</camadapter-apalis/3d/cover.stl>`__
+     + CamAdapter Apalis Mounting Board: `</camadapter-apalis/3d/mounting-board.stl>`__
+
+* CamAdapter Jetson `</camadapter-jetson/>`__ (obsolete):
 
   - **[3D]**
      + CamAdapter Jetson Box: `</camadapter-jetson/3d/box.stl>`__
@@ -31,12 +33,6 @@ Projects
      + CamAdapter Jetson Top: `</camadapter-jetson/2d/top.dxf>`__
      + CamAdapter Jetson Bottom: `</camadapter-jetson/2d/bottom.dxf>`__
      + CamAdapter Jetson Ear: `</camadapter-jetson/2d/ear.dxf>`__
-  - **[PCB]**
-     + *Coming soon*
-
-..     + CamAdapter Jetson Top: `</camadapter-jetson/pcb/top/>`__
-..     + CamAdapter Jetson Bottom: `</camadapter-jetson/pcb/bottom/>`__
-..     + CamAdapter Jetson Ear: `</camadapter-jetson/pcb/ear/>`__
 
 License
 =======
